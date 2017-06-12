@@ -4,11 +4,14 @@ header
 	background-color: LightPink;
 	width: 100%;
 	font: "Times New Roman";
-	color: Red;
 	font-size: 200%;
+	text-align: right;
 }
 
 body
 {
 	background-color: MistyRose;
+	font: "Monotype Corsiva";
+	font-size: 350%;
+	background-image: url("Mainbg.jpg");
 }
