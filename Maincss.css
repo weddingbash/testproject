@@ -5,7 +5,8 @@ header
 	width: 100%;
 	text-align: "right";
 	font: "Times New Roman";
-	color: salmon;
+	color: Salmon;
+	font-size-adjust: 0.75;
 }
 
 body
